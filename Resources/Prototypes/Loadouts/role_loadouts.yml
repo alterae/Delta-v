@@ -32,7 +32,7 @@
 # Silicons
 - type: roleLoadout
   id: JobStationAi
-  nameDataset: NamesAIDeltaV # DeltaV
+  nameDataset: names_ai_deltav # DeltaV
 
 # Civilian
 - type: roleLoadout
